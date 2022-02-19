@@ -1,1 +1,1 @@
-This is Bente's first git project!
+This is a first git test.
